@@ -1,7 +1,6 @@
 - 👋 Hola, bienvenido a mi repositorio 🤓
 - 🧑🏽‍💻 Mi nombre es Jonathán Martínez. @JonMBello 
 - 👀 Me gusta mucho la fotografía 📸, andar en bicicleta 🚲 y el cine 🍿
-- 🌱 Actualmente estoy estudiando una maestría 🎓
 
 - 📫 Puedes contactarme en las siguientes direcciones:
   - 📩 jonathanmtzbello@gmail.com
