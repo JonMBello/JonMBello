@@ -3,6 +3,7 @@
 - 👀 Me gusta mucho la fotografía 📸, andar en bicicleta 🚲 y el cine 🍿
 
 - 📫 Puedes contactarme en las siguientes direcciones:
+  - 📩 contact@jonmb.com
   - 📩 jonathanmtzbello@gmail.com
 
 <!---
