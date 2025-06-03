@@ -1,5 +1,6 @@
 - 👋 Hola, bienvenido a mi repositorio 🤓
-- 🧑🏽‍💻 Mi nombre es Jonathán Martínez. @JonMBello 
+- 🖥️ Mi nombre es Jonathán Martínez. @JonMBello
+- 🧑🏽‍💻 Soy Ingeniero de Software 
 - 👀 Me gusta mucho la fotografía 📸, andar en bicicleta 🚲 y el cine 🍿
 
 - 📫 Puedes contactarme en las siguientes direcciones:
